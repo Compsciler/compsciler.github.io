@@ -1,4 +1,4 @@
-# title
+# UIUC SAIL Git Gud @ Git!
 ## subtitle
 
 write a paragraph about your chosen topic here. what is important about your topic? why do you care about it? why do you think other people should care about it?
@@ -16,3 +16,7 @@ add some more content here! maybe some bulleted action items?
 we encourage you to use the `preview changes` tab to see what your changes look like before committing the file.
 
 don't forget to commit and push your changes when you are done!
+
+```
+print("Test")
+```
